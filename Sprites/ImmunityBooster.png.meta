@@ -1,0 +1,1066 @@
+fileFormatVersion: 2
+guid: 262a79d166e13bf30ad26e7b5cacde46
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7607359364080271525
+    second: ImmunityBooster_0
+  - first:
+      213: 2441627617212444676
+    second: ImmunityBooster_1
+  - first:
+      213: -5987298918661514526
+    second: ImmunityBooster_2
+  - first:
+      213: -3875682759663626731
+    second: ImmunityBooster_3
+  - first:
+      213: 8094504942872292225
+    second: ImmunityBooster_4
+  - first:
+      213: -1252400391368335252
+    second: ImmunityBooster_5
+  - first:
+      213: -3002618922775386637
+    second: ImmunityBooster_6
+  - first:
+      213: 3735845552643717904
+    second: ImmunityBooster_7
+  - first:
+      213: 4434749580850542445
+    second: ImmunityBooster_8
+  - first:
+      213: 886287076219056187
+    second: ImmunityBooster_9
+  - first:
+      213: -6169613167271421538
+    second: ImmunityBooster_10
+  - first:
+      213: 4133878208530529522
+    second: ImmunityBooster_11
+  - first:
+      213: -8592888789139407319
+    second: ImmunityBooster_12
+  - first:
+      213: -7340706864675369715
+    second: ImmunityBooster_13
+  - first:
+      213: -5239117449652508251
+    second: ImmunityBooster_14
+  - first:
+      213: -674565277359071376
+    second: ImmunityBooster_15
+  - first:
+      213: -6957768972182938056
+    second: ImmunityBooster_16
+  - first:
+      213: -665809613299157206
+    second: ImmunityBooster_17
+  - first:
+      213: 6606833661693427054
+    second: ImmunityBooster_18
+  - first:
+      213: 7298247664487297945
+    second: ImmunityBooster_19
+  - first:
+      213: 5311594933560172110
+    second: ImmunityBooster_20
+  - first:
+      213: 562003586227359102
+    second: ImmunityBooster_21
+  - first:
+      213: 6750597578121445932
+    second: ImmunityBooster_22
+  - first:
+      213: -7507243918168764763
+    second: ImmunityBooster_23
+  - first:
+      213: -8237160918804845652
+    second: ImmunityBooster_24
+  - first:
+      213: -1595027696720978749
+    second: ImmunityBooster_25
+  - first:
+      213: -3716598584435622205
+    second: ImmunityBooster_26
+  - first:
+      213: -5506934337176171006
+    second: ImmunityBooster_27
+  - first:
+      213: -5679709695673125761
+    second: ImmunityBooster_28
+  - first:
+      213: -8143795574152838604
+    second: ImmunityBooster_29
+  - first:
+      213: 6195145945232518470
+    second: ImmunityBooster_30
+  - first:
+      213: -5914651720337278763
+    second: ImmunityBooster_31
+  - first:
+      213: 3996514345892798345
+    second: ImmunityBooster_32
+  - first:
+      213: 5773718999298702862
+    second: ImmunityBooster_33
+  - first:
+      213: -4413302277010140250
+    second: ImmunityBooster_34
+  - first:
+      213: 463000145450308083
+    second: ImmunityBooster_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ImmunityBooster_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 0
+        width: 474
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5ff041c6fa3d6690800000000000000
+      internalID: -7607359364080271525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImmunityBooster_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 448
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4003bbda16762e120800000000000000
+      internalID: 2441627617212444676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImmunityBooster_2
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 453
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ea99150b57d8eca0800000000000000
+      internalID: -5987298918661514526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImmunityBooster_3
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 452
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 516d428701fc63ac0800000000000000
+      internalID: -3875682759663626731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImmunityBooster_4
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 451
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18beb88eb55755070800000000000000
+      internalID: 8094504942872292225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImmunityBooster_5
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 453
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c602ee3ca749e9ee0800000000000000
+      internalID: -1252400391368335252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImmunityBooster_6
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 456
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f56b109ffd8456d0800000000000000
+      internalID: -3002618922775386637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImmunityBooster_7
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 453
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01b3d0d9cb368d330800000000000000
+      internalID: 3735845552643717904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImmunityBooster_8
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 452
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d67b86a5f356b8d30800000000000000
+      internalID: 4434749580850542445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImmunityBooster_9
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 452
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b307e0b6669bc4c00800000000000000
+      internalID: 886287076219056187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImmunityBooster_10
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 453
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e99d63b2381216aa0800000000000000
+      internalID: -6169613167271421538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImmunityBooster_11
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 448
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fcb034145c7e5930800000000000000
+      internalID: 4133878208530529522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImmunityBooster_12
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 412
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92eb8e06c2defb880800000000000000
+      internalID: -8592888789139407319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImmunityBooster_13
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 411
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0dc0c2dff1902a90800000000000000
+      internalID: -7340706864675369715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImmunityBooster_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 383
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a969e4007aea47b0800000000000000
+      internalID: -5239117449652508251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImmunityBooster_15
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 384
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07f1339447673a6f0800000000000000
+      internalID: -674565277359071376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImmunityBooster_16
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 354
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83e1dcfcbf9017f90800000000000000
+      internalID: -6957768972182938056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImmunityBooster_17
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 354
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a27734f2fa192c6f0800000000000000
+      internalID: -665809613299157206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImmunityBooster_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 328
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6d7457f53030bb50800000000000000
+      internalID: 6606833661693427054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImmunityBooster_19
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 329
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 993f6944595984560800000000000000
+      internalID: 7298247664487297945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImmunityBooster_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 262
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4e5e95337396b940800000000000000
+      internalID: 5311594933560172110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImmunityBooster_21
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 262
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7dc397b843acc700800000000000000
+      internalID: 562003586227359102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImmunityBooster_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 221
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c228a892bb0fead50800000000000000
+      internalID: 6750597578121445932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImmunityBooster_23
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 221
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aec6577e69e0d790800000000000000
+      internalID: -7507243918168764763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImmunityBooster_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 180
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cab28e469c9bfad80800000000000000
+      internalID: -8237160918804845652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImmunityBooster_25
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 180
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cc590ab2c25dd9e0800000000000000
+      internalID: -1595027696720978749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImmunityBooster_26
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 113
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cebef1674dfb6cc0800000000000000
+      internalID: -3716598584435622205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImmunityBooster_27
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 115
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20e8637b5607393b0800000000000000
+      internalID: -5506934337176171006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImmunityBooster_28
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 89
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f74bf0acf1e9d21b0800000000000000
+      internalID: -5679709695673125761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImmunityBooster_29
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 89
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 432c83fa21d6bfe80800000000000000
+      internalID: -8143795574152838604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImmunityBooster_30
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 59
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64d2945f96499f550800000000000000
+      internalID: 6195145945232518470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImmunityBooster_31
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 61
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d8b427f89feaeda0800000000000000
+      internalID: -5914651720337278763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImmunityBooster_32
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 32
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98f51b68f98767730800000000000000
+      internalID: 3996514345892798345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImmunityBooster_33
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 32
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0e7f12e6de502050800000000000000
+      internalID: 5773718999298702862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImmunityBooster_34
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 0
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a3536436fcc0c2c0800000000000000
+      internalID: -4413302277010140250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImmunityBooster_35
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 0
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f11580ed28ec6600800000000000000
+      internalID: 463000145450308083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ImmunityBooster_0: -7607359364080271525
+      ImmunityBooster_1: 2441627617212444676
+      ImmunityBooster_10: -6169613167271421538
+      ImmunityBooster_11: 4133878208530529522
+      ImmunityBooster_12: -8592888789139407319
+      ImmunityBooster_13: -7340706864675369715
+      ImmunityBooster_14: -5239117449652508251
+      ImmunityBooster_15: -674565277359071376
+      ImmunityBooster_16: -6957768972182938056
+      ImmunityBooster_17: -665809613299157206
+      ImmunityBooster_18: 6606833661693427054
+      ImmunityBooster_19: 7298247664487297945
+      ImmunityBooster_2: -5987298918661514526
+      ImmunityBooster_20: 5311594933560172110
+      ImmunityBooster_21: 562003586227359102
+      ImmunityBooster_22: 6750597578121445932
+      ImmunityBooster_23: -7507243918168764763
+      ImmunityBooster_24: -8237160918804845652
+      ImmunityBooster_25: -1595027696720978749
+      ImmunityBooster_26: -3716598584435622205
+      ImmunityBooster_27: -5506934337176171006
+      ImmunityBooster_28: -5679709695673125761
+      ImmunityBooster_29: -8143795574152838604
+      ImmunityBooster_3: -3875682759663626731
+      ImmunityBooster_30: 6195145945232518470
+      ImmunityBooster_31: -5914651720337278763
+      ImmunityBooster_32: 3996514345892798345
+      ImmunityBooster_33: 5773718999298702862
+      ImmunityBooster_34: -4413302277010140250
+      ImmunityBooster_35: 463000145450308083
+      ImmunityBooster_4: 8094504942872292225
+      ImmunityBooster_5: -1252400391368335252
+      ImmunityBooster_6: -3002618922775386637
+      ImmunityBooster_7: 3735845552643717904
+      ImmunityBooster_8: 4434749580850542445
+      ImmunityBooster_9: 886287076219056187
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
