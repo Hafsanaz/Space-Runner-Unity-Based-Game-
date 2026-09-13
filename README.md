@@ -20,7 +20,7 @@ A 2D endless side-scrolling runner built in Unity, with a **vaccine-vs-virus** t
 
 | Player (Syringe) | Obstacle (Virus) | Immunity Booster |
 |:---:|:---:|:---:|
-| <img src="Assets/Sprites/Player.png" width="150"/> | <img src="Assets/Sprites/Obstacle.png" width="150"/> | <img src="Assets/Sprites/ImmunityBooster.png" width="150"/> |
+| <img src="This PC/Downloads/Player.png" width="150"/> | <img src="Assets/Sprites/Obstacle.png" width="150"/> | <img src="Assets/Sprites/ImmunityBooster.png" width="150"/> |
 
 > These images live in `Assets/Sprites/` in this repo, so they'll render automatically once this README sits alongside them on GitHub.
 >
