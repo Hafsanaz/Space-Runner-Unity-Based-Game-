@@ -2,10 +2,6 @@
 
 A 2D endless side-scrolling runner built in Unity, with a **vaccine-vs-virus** theme: you play as a syringe dodging angry virus obstacles, grabbing immunity-booster pills to fight back.
 
-<p align="center">
-  <img src="Assets/Sprites/Background.png" alt="Background" width="600"/>
-</p>
-
 ## 🎮 Gameplay
 
 - The player moves **up and down** (vertical movement only) to dodge virus obstacles that spawn from the right edge of the screen and scroll left.
@@ -17,10 +13,6 @@ A 2D endless side-scrolling runner built in Unity, with a **vaccine-vs-virus** t
 - Looping background, scrolling camera, and background music/SFX for game start, gameplay, and game over.
 
 ## 🖼️ Assets Preview
-
-| Player (Syringe) | Obstacle (Virus) | Immunity Booster |
-|:---:|:---:|:---:|
-| <img src="This PC/Downloads/Player.png" width="150"/> | <img src="Assets/Sprites/Obstacle.png" width="150"/> | <img src="Assets/Sprites/ImmunityBooster.png" width="150"/> |
 
 > These images live in `Assets/Sprites/` in this repo, so they'll render automatically once this README sits alongside them on GitHub.
 >
